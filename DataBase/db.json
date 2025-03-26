@@ -1,0 +1,38 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "age": 30,
+            "email": "John@gmail.com",
+            "dep" :"SOET"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "age": 28,
+            "email": "jane@gmail.com",
+            "dep" :"SOMC"
+        },
+        {
+            "id": 3,
+            "name": "Gyandeep Kumar",
+            "age": 28,
+            "email": "Gyan@gmail.com",
+            "dep" :"SOL"
+        }
+    ],
+
+    "users" : [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "email": "alice@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Bob Brown",
+            "email": "bob@example.com"
+        }
+    ]
+}
