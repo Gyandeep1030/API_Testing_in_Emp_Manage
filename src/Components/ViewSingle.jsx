@@ -18,7 +18,7 @@ export const ViewSingle = () => {
         let { data } = await axios.get(`http://localhost:1030/employees/${id}`)
         setdata(data)
     }
-    useEffect(() => {
+    useEffect(()=>{
         getdata();
     },[])
 
